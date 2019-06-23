@@ -5,7 +5,7 @@
 version: 2
 jobs:
 build:
-working_directory: ~/spring5-recipe-app
+working_directory: ~/recipe-app‌
 docker:
   # specify the version you desire here
   - image: circleci/openjdk:8-jdk
